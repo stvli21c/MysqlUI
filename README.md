@@ -34,6 +34,7 @@ http://dev.mysql.com/downloads/connector/net/
 		
 	
 记得配置MySQL 服务器上的设置哦：
+
 	- CentOS6.7 iptables不太标准，发现打开网卡而不是地址才有效：-i ethx -p tcp --dport 3306 
 	
 为了赶工庆祝新年，没有汉化。大家都是代码亲，请多多见谅哦！
